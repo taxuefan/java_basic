@@ -1,0 +1,5 @@
+/.idea
+/target/classes/com/dongnao/concurrent/period1
+/target/classes/com/dongnao/concurrent/period2/*.class
+/target/classes/com/dongnao/concurrent/period2/custom/*.class
+/target/classes/com/dongnao/*.class
